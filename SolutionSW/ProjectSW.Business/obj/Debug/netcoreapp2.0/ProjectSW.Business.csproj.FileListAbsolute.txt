@@ -1,0 +1,12 @@
+C:\Users\Bruno\source\repos\KneatProject\SolutionSW\ProjectSW.Business\obj\Debug\netcoreapp2.0\ProjectSW.Business.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\KneatProject\SolutionSW\ProjectSW.Business\obj\Debug\netcoreapp2.0\ProjectSW.Business.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\KneatProject\SolutionSW\ProjectSW.Business\obj\Debug\netcoreapp2.0\ProjectSW.Business.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\KneatProject\SolutionSW\ProjectSW.Business\obj\Debug\netcoreapp2.0\ProjectSW.Business.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\KneatProject\SolutionSW\ProjectSW.Business\bin\Debug\netcoreapp2.0\ProjectSW.Business.deps.json
+C:\Users\Bruno\source\repos\KneatProject\SolutionSW\ProjectSW.Business\bin\Debug\netcoreapp2.0\ProjectSW.Business.dll
+C:\Users\Bruno\source\repos\KneatProject\SolutionSW\ProjectSW.Business\bin\Debug\netcoreapp2.0\ProjectSW.DTO.dll
+C:\Users\Bruno\source\repos\KneatProject\SolutionSW\ProjectSW.Business\bin\Debug\netcoreapp2.0\ProjectSW.DTO.pdb
+C:\Users\Bruno\source\repos\KneatProject\SolutionSW\ProjectSW.Business\obj\Debug\netcoreapp2.0\ProjectSW.Business.csproj.CopyComplete
+C:\Users\Bruno\source\repos\KneatProject\SolutionSW\ProjectSW.Business\bin\Debug\netcoreapp2.0\ProjectSW.Business.pdb
+C:\Users\Bruno\source\repos\KneatProject\SolutionSW\ProjectSW.Business\obj\Debug\netcoreapp2.0\ProjectSW.Business.dll
+C:\Users\Bruno\source\repos\KneatProject\SolutionSW\ProjectSW.Business\obj\Debug\netcoreapp2.0\ProjectSW.Business.pdb

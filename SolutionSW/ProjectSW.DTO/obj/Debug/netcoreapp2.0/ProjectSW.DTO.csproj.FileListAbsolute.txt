@@ -1,0 +1,9 @@
+C:\Users\Bruno\source\repos\KneatProject\SolutionSW\ProjectSW.DTO\bin\Debug\netcoreapp2.0\ProjectSW.DTO.deps.json
+C:\Users\Bruno\source\repos\KneatProject\SolutionSW\ProjectSW.DTO\bin\Debug\netcoreapp2.0\ProjectSW.DTO.dll
+C:\Users\Bruno\source\repos\KneatProject\SolutionSW\ProjectSW.DTO\bin\Debug\netcoreapp2.0\ProjectSW.DTO.pdb
+C:\Users\Bruno\source\repos\KneatProject\SolutionSW\ProjectSW.DTO\obj\Debug\netcoreapp2.0\ProjectSW.DTO.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\KneatProject\SolutionSW\ProjectSW.DTO\obj\Debug\netcoreapp2.0\ProjectSW.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\KneatProject\SolutionSW\ProjectSW.DTO\obj\Debug\netcoreapp2.0\ProjectSW.DTO.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\KneatProject\SolutionSW\ProjectSW.DTO\obj\Debug\netcoreapp2.0\ProjectSW.DTO.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\KneatProject\SolutionSW\ProjectSW.DTO\obj\Debug\netcoreapp2.0\ProjectSW.DTO.dll
+C:\Users\Bruno\source\repos\KneatProject\SolutionSW\ProjectSW.DTO\obj\Debug\netcoreapp2.0\ProjectSW.DTO.pdb
